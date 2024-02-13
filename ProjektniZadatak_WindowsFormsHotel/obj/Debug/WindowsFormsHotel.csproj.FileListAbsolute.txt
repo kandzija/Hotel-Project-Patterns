@@ -1,0 +1,172 @@
+C:\Users\Maki\source\repos\WindowsFormsHotel\bin\Debug\WindowsFormsHotel.exe.config
+C:\Users\Maki\source\repos\WindowsFormsHotel\bin\Debug\WindowsFormsHotel.exe
+C:\Users\Maki\source\repos\WindowsFormsHotel\bin\Debug\WindowsFormsHotel.pdb
+C:\Users\Maki\source\repos\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csprojAssemblyReference.cache
+C:\Users\Maki\source\repos\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Properties.Resources.resources
+C:\Users\Maki\source\repos\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.GenerateResource.cache
+C:\Users\Maki\source\repos\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.exe
+C:\Users\Maki\source\repos\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.pdb
+C:\Users\Maki\source\repos\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Main.MainForm.resources
+C:\Users\Maki\source\repos\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.HotelDetail.resources
+C:\Users\Maki\source\repos\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Hotel.HotelEdit.resources
+C:\Users\Maki\source\repos\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Bill.BillEdit.resources
+C:\Users\Maki\source\repos\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Bill.BillList.resources
+C:\Users\Maki\source\repos\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Guest.GuestEdit.resources
+C:\Users\Maki\source\repos\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Guest.GuestList.resources
+C:\Users\Maki\source\repos\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Reservation.ReservationEdit.resources
+C:\Users\Maki\source\repos\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Reservation.ReservationList.resources
+C:\Users\Maki\source\repos\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Room.RoomEdit.resources
+C:\Users\Maki\source\repos\WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Room.RoomList.resources
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.exe.config
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.exe
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.pdb
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.dll
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.SqlServer.dll
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.xml
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.SqlServer.xml
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csprojAssemblyReference.cache
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Bill.BillEdit.resources
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Bill.BillList.resources
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Guest.GuestEdit.resources
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Guest.GuestList.resources
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.HotelDetail.resources
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Hotel.HotelEdit.resources
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Main.MainForm.resources
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Reservation.ReservationEdit.resources
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Reservation.ReservationList.resources
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Room.RoomEdit.resources
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Room.RoomList.resources
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Properties.Resources.resources
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.GenerateResource.cache
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.CoreCompileInputs.cache
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.CopyComplete
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.exe
+E:\Škola\ELPROS-New\2020-2021\Predmeti\NIOP\4\Vježbe\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.pdb
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.exe.config
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.exe
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.pdb
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.dll
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.xml
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.AssemblyReference.cache
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Bill.BillEdit.resources
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Bill.BillList.resources
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Guest.GuestEdit.resources
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Guest.GuestList.resources
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.HotelDetail.resources
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Hotel.HotelEdit.resources
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Main.MainForm.resources
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Reservation.ReservationEdit.resources
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Reservation.ReservationList.resources
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Room.RoomEdit.resources
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Room.RoomList.resources
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Properties.Resources.resources
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.GenerateResource.cache
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.CopyComplete
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.exe
+C:\Users\Učenik\Downloads\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.pdb
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.exe.config
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.exe
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.pdb
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.dll
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.SqlServer.dll
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.xml
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.SqlServer.xml
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.AssemblyReference.cache
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Bill.BillEdit.resources
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Bill.BillList.resources
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Guest.GuestEdit.resources
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Guest.GuestList.resources
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.HotelDetail.resources
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Hotel.HotelEdit.resources
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Main.MainForm.resources
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Reservation.ReservationEdit.resources
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Reservation.ReservationList.resources
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Room.RoomEdit.resources
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Room.RoomList.resources
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Properties.Resources.resources
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.GenerateResource.cache
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.CoreCompileInputs.cache
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.CopyComplete
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.exe
+K:\New folder\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.pdb
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.exe.config
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.exe
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.pdb
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.dll
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.xml
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.AssemblyReference.cache
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Bill.BillEdit.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Bill.BillList.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Guest.GuestEdit.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Guest.GuestList.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.HotelDetail.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Hotel.HotelEdit.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Main.MainForm.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Reservation.ReservationEdit.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Reservation.ReservationList.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Room.RoomEdit.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Room.RoomList.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Properties.Resources.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.GenerateResource.cache
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.CoreCompileInputs.cache
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.CopyComplete
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.exe
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.pdb
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.exe.config
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.exe
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.pdb
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.dll
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.xml
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.AssemblyReference.cache
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.SuggestedBindingRedirects.cache
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Bill.BillEdit.resources
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Bill.BillList.resources
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Guest.GuestEdit.resources
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Guest.GuestList.resources
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.HotelDetail.resources
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Hotel.HotelEdit.resources
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Main.MainForm.resources
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Reservation.ReservationEdit.resources
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Reservation.ReservationList.resources
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Room.RoomEdit.resources
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Room.RoomList.resources
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Properties.Resources.resources
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.GenerateResource.cache
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.CopyComplete
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.exe
+C:\Users\Učenik\Desktop\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.pdb
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.exe.config
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.exe
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\bin\Debug\WindowsFormsHotel.pdb
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.dll
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.xml
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.AssemblyReference.cache
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Bill.BillEdit.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Bill.BillList.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Guest.GuestEdit.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Guest.GuestList.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.HotelDetail.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Hotel.HotelEdit.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Main.MainForm.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Reservation.ReservationEdit.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Reservation.ReservationList.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Room.RoomEdit.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Room.RoomList.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Properties.Resources.resources
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.GenerateResource.cache
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.CoreCompileInputs.cache
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.csproj.CopyComplete
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.exe
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.pdb
+C:\Users\Kandzija\Desktop\Desktop\Skola\Napredno i objektno programiranje\4. razred\ProjektniZadatak_WindowsFormsHotel-MarkoSokcevic\ProjektniZadatak_WindowsFormsHotel\obj\Debug\WindowsFormsHotel.Forms.Room.RoomConfirmation.resources
